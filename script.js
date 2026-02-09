@@ -129,6 +129,13 @@ function moveButton(button) {
     button.style.top = y + 'px';
 }
 
+//additional
+
+function addlerrormessage() {
+  const message = document.getElementById("addlerror");
+  addlerror.innerText = "Try again!";
+}
+
 // Love meter functionality
 const loveMeter = document.getElementById('loveMeter');
 const loveValue = document.getElementById('loveValue');
