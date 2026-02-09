@@ -33,9 +33,9 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 21st, 2026 from 10.00am? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will you be my Valentine on Feb 21st, 2026 from 10.00am? 🌹", // The big question!
+            yesBtn: "Yes! And I will take care of Feb 14th, 2026 💋",                      // Text for "Yes" button
+            noBtn: "Yes!"                                                 // Text for "No" button
         }
     },
 
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get your 3 minute kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💋💋💋💋💋💋😽"  // These will bounce around
     },
 
     // Color scheme for the website
